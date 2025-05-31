@@ -1,0 +1,26 @@
+{
+    "1234": {
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "correo": "juan.perez@example.com",
+      "telefono": "1234567890",
+      "direccion": "Calle Principal 123",
+      "preferencial": true
+    },
+    "4321": {
+      "nombre": "María",
+      "apellido": "Gómez",
+      "correo": "maria.gomez@example.com",
+      "telefono": "0987654321",
+      "direccion": "Avenida Central 456",
+      "preferencial": false
+    },
+    "9012": {
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "correo": "carlos.rodriguez@example.com",
+      "telefono": "5551234567",
+      "direccion": "Boulevard Norte 789",
+      "preferencial": true
+    }
+  }

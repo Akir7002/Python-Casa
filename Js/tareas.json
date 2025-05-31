@@ -1,0 +1,31 @@
+{
+  "1010": {
+    "Usuario": "Jhon",
+    "titulo": "Otra tarea",
+    "descripcion": "otra tarea de prueba",
+    "estado": "en progreso",
+    "fechaCreacion": "2025-05-27T23:27:58.069Z",
+    "fechaActualizacion": "2025-05-27T23:30:19.351Z"
+  },
+  "1234": {
+    "Usuario": "Juan",
+    "titulo": "Preparar",
+    "Tarea": "Estuadiar Node.js",
+    "descripcion": "Leer documentación oficial y practicar con ejemplos.",
+    "estado": "pendiente"
+  },
+  "4321": {
+    "Usuario": "Ana",
+    "titulo": "Adelantar proyecto",
+    "Tarea": "Diseñar presentación",
+    "descripcion": "Preparar las diapositivas para el proyecto final.",
+    "estado": "en progreso"
+  },
+  "9012": {
+    "Usuario": "Carlos",
+    "titulo": "Configurar ",
+    "Tarea": "Configurar servidor Express",
+    "descripcion": "Crear la estructura básica de un servidor con Express.",
+    "estado": "completada"
+  }
+}

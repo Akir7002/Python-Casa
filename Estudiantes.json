@@ -1,0 +1,42 @@
+{
+    "Nicol": {
+        "apellido": "Murillo Lozano",
+        "edad": 18,
+        "materias": {
+            "Matemáticas": [5.0, 6.5, 9.0],
+            "Física": [6.0, 7.0, 5.0],
+            "Química": [3.0, 4.5, 8.5],
+            "Historia": [8.0, 9.0, 7.0]
+        }
+    },
+    "Juan David": {
+        "apellido": "Pérez González",
+        "edad": 22,
+        "materias": {
+            "Matemáticas": [7.5, 8.0, 6.0],
+            "Física": [6.0, 2.7, 10.0],
+            "Química": [9.0, 8.5, 5.5],
+            "Historia": [4.0, 5.5, 6.0]
+        }
+    },
+    "Oscar": {
+        "apellido": "Murillo Lozano",
+        "edad": 17,
+        "materias": {
+            "Matemáticas": [7.5, 9.5, 10.0],
+            "Física": [5.0, 6.8, 8.7],
+            "Química": [2.7, 9.0, 5.5],
+            "Historia": [7.0, 6.0, 8.0]
+        }
+    },
+    "Maria Jose": {
+        "apellido": "Triviño Leal",
+        "edad": 19,
+        "materias": {
+            "Matemáticas": [7.5, 8.0, 6.0],
+            "Física": [9.0, 5.5, 6.0],
+            "Química": [4.0, 8.5, 6.0],
+            "Historia": [1.0, 1.9, 1.0]
+        }
+    }
+}

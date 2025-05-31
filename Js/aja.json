@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Estudiar Node.js",
+    "descripcion": "Leer documentación oficial y practicar con ejemplos.",
+    "estado": "pendiente",
+    "usuario": "juan"
+  },
+  {
+    "titulo": "Diseñar presentación",
+    "descripcion": "Preparar las diapositivas para el proyecto final.",
+    "estado": "en progreso",
+    "usuario": "ana"
+  },
+  {
+    "titulo": "Configurar servidor Express",
+    "descripcion": "Crear la estructura básica de un servidor con Express.",
+    "estado": "completada",
+    "usuario": "carlos"
+  }
+]
